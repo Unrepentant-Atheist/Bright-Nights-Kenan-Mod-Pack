@@ -1,0 +1,13 @@
+[
+  {
+    "type": "martial_art",
+    "id": "style_mma_diamond_mind",
+    "name": { "str": "Diamond Mind" },
+    "copy-from": "style_mma_diamond_mind",
+    "extend": {
+      "weapons": [
+        "nec_fine_katana"
+      ]
+    }
+  }
+]
