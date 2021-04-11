@@ -1,0 +1,13 @@
+[
+    {
+    "type": "martial_art",
+    "id": "mss_style_sledge",
+    "name": { "str": "Survivor Sledge-Fu" },
+    "copy-from": "mss_style_sledge",
+    "extend": {
+      "weapons": [
+        "hexenhammer"
+      ]
+        }
+    }
+]
