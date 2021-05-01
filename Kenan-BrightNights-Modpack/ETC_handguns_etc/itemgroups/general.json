@@ -29,8 +29,8 @@
     "id": "vault",
     "//": "'That Gun' definitively should be found in such a place. Plus a few very rare conversion kit and ammo spawns",
     "items": [
-      [ "etc_adrevolver", 100 ],
-      [ "etc_amrevolver", 100 ],
+      [ "etc_adrevolver", 15 ],
+      [ "etc_amrevolver", 15 ],
       [ "556dk", 2 ],
       [ "762echv", 1 ],
       [ "etc_hydrogen_gun", 1 ],
